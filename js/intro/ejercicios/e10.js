@@ -15,3 +15,5 @@ do{
     }while(num != aleatorio);
     var jugar = confirm('Quiere volver a jugar: ');
 }while(jugar)
+
+
